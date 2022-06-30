@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551391124428",
+    "project_id": "primerparcial-a3155",
+    "storage_bucket": "primerparcial-a3155.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551391124428:android:0924c32e9ba4c2a2149b69",
+        "android_client_info": {
+          "package_name": "com.example.primerparcialdelvallerodriguezmariapaula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551391124428-71a4pfc6tv60c38hrd1o81ejf49aeuu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfGMi3c5cB43cK2S9VOLsA1fuz-46X-O4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551391124428-71a4pfc6tv60c38hrd1o81ejf49aeuu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
